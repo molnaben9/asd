@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            kiiras("Bence");
+            kiiras("B");
             Console.WriteLine(terulet(2,3));
             kiiras(Convert.ToString(terulet(2, 3)));
             Program2.kiir2();
