@@ -10,6 +10,7 @@ namespace ConsoleApp2
             Console.WriteLine(terulet(2,3));
             kiiras(Convert.ToString(terulet(2, 3)));
             Program2.kiir2();
+            
             Program2.kiir3();
             int a = 1;
             a = 2;
